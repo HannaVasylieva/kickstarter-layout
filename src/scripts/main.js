@@ -251,7 +251,7 @@ formSubmit.addEventListener('submit', function(event) {
   event.preventDefault();
   formSubmit.reset();
   setSuccessState();
-  setTimeout(unsetSuccessState, 200);
+  setTimeout(unsetSuccessState, 800);
 });
 
 function slider(

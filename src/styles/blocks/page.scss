@@ -4,6 +4,8 @@
   color: $main-color;
   background-color: #f7f7f7;
   scroll-behavior: smooth;
+  max-width: 1440px;
+  margin: 0 auto;
 
   &__body {
     margin: 0;
