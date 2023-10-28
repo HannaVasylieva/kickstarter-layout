@@ -1,33 +1,22 @@
-# Kickstarter - Futuristic Wireless Speaker Showcase
-
-## Project Description:
-
-Kickstarter is a sleek and engaging HTML webpage designed for showcasing audio products, with a particular focus on the futuristic wireless speaker named "Luna." This project aims to provide an immersive and user-friendly experience for visitors. Below, we'll break down the key aspects of the project.
+Soundwave Revolution is a sleek and engaging HTML webpage designed for showcasing audio products, with a particular focus on the futuristic wireless speaker named "Luna." This project aims to provide an immersive and user-friendly experience for visitors. Below, we'll break down the key aspects of the project.
 
 ## Features:
 
-Navigation Menu: The webpage features a navigation menu accessible via a menu icon in the header, making it easy for users to navigate between sections.
-
-Form Submission Handling: Code handles form submissions, including clearing form fields and displaying a success state
-
-Language Switching: The code allows users to switch between English and Ukrainian languages.
-
-User Interaction: The project focuses on user interaction and engagement, with elements such as hover effects on buttons and images to provide an interactive and engaging experience.
-
-Slider Functionality: Users can navigate through different feature slides.
-Slider adapts to different screen sizes.
-
-Hash Change Event: Changing the appearance of the page based on the URL.
+- Navigation Menu: The webpage features a navigation menu accessible via a menu icon in the header, making it easy for users to navigate between sections.
+- Form Submission Handling: Code handles form submissions, including clearing form fields and displaying a success state
+- Language Switching: The code allows users to switch between English and Ukrainian languages.
+- User Interaction: The project focuses on user interaction and engagement, with elements such as hover effects on buttons and images to provide an interactive and engaging experience.
+- Slider Functionality: Users can navigate through different feature slides. The slider adapts to different screen sizes.
+- Hash Change Event: Changing the appearance of the page based on the URL.
 
 ## Technologies Used
-
-HTML
-CSS and SCSS
-JavaScript
-Responsive Web Design
-Font Integration
-Linking and Navigation
-SEO
+- HTML
+- CSS and SCSS
+- JavaScript
+- Responsive Web Design
+- Font Integration
+- Linking and Navigation
+- SEO
 
 ## Code Structure
 
